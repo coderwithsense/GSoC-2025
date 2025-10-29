@@ -6,7 +6,7 @@
 
 **GitHub:** [https://github.com/coderwithsense](https://github.com/coderwithsense)
 
-**Social Profiles:** [LinkedIn](https://www.linkedin.com/in/himanshu-poptani)
+**Social Profiles:** [LinkedIn](https://www.linkedin.com/in/hxxp) [Twitter](https://www.x.com/fsx_void)
 
 **Project:** Forecast.bid: A Decentralized, Gamified Token Price Prediction Protocol on EVM-Compatible Blockchains
 
